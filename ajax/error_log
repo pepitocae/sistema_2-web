@@ -1,0 +1,41 @@
+[17-Jul-2019 23:33:00 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'montrust_peluso'@'localhost' (using password: YES) in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 4
+[17-Jul-2019 23:33:00 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 6
+[17-Jul-2019 23:33:07 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'montrust_peluso'@'localhost' (using password: YES) in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 4
+[17-Jul-2019 23:33:07 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 6
+[17-Jul-2019 23:33:21 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'montrust_peluso'@'localhost' (using password: YES) in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 4
+[17-Jul-2019 23:33:21 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 6
+[17-Jul-2019 23:33:44 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'montrust_peluso'@'localhost' (using password: YES) in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 4
+[17-Jul-2019 23:33:44 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 6
+[17-Jul-2019 23:35:23 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'montrust_peluso'@'localhost' (using password: YES) in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 4
+[17-Jul-2019 23:35:23 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 6
+[17-Jul-2019 23:35:40 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'montrust_peluso'@'localhost' (using password: YES) in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 4
+[17-Jul-2019 23:35:40 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 6
+[17-Jul-2019 23:39:02 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'montrust_peluso'@'localhost' to database 'montrust_dbsistemaphp' in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 4
+[17-Jul-2019 23:39:02 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 6
+[17-Jul-2019 23:39:15 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'montrust_peluso'@'localhost' to database 'montrust_dbsistemaphp' in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 4
+[17-Jul-2019 23:39:15 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/montrust/demosistema.mtcorp.mx/config/Conexion.php on line 6
+[18-Jul-2019 22:17:43 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/vacante.php on line 62
+[18-Jul-2019 22:20:27 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/vacante.php on line 62
+[18-Jul-2019 22:21:29 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/vacante.php on line 62
+[18-Jul-2019 22:29:16 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/vacante.php on line 62
+[18-Jul-2019 22:29:30 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/vacante.php on line 62
+[18-Jul-2019 22:30:31 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/vacante.php on line 62
+[19-Jul-2019 00:13:27 America/Mexico_City] PHP Notice:  Undefined variable: rfc in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 39
+[19-Jul-2019 00:13:27 America/Mexico_City] PHP Notice:  Undefined variable: giro in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 39
+[19-Jul-2019 00:13:27 America/Mexico_City] PHP Notice:  Undefined variable: banco in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 39
+[19-Jul-2019 00:13:27 America/Mexico_City] PHP Notice:  Undefined variable: cuenta in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 39
+[19-Jul-2019 00:13:27 America/Mexico_City] PHP Notice:  Undefined variable: clabe in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 39
+[19-Jul-2019 00:13:27 America/Mexico_City] PHP Notice:  Undefined variable: contacto in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 39
+[19-Jul-2019 00:13:27 America/Mexico_City] PHP Warning:  Missing argument 12 for Persona::editar(), called in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 39 and defined in /home/montrust/demosistema.mtcorp.mx/modelos/Persona.php on line 22
+[19-Jul-2019 00:13:27 America/Mexico_City] PHP Notice:  Undefined variable: contacto in /home/montrust/demosistema.mtcorp.mx/modelos/Persona.php on line 24
+[19-Jul-2019 00:15:49 America/Mexico_City] PHP Notice:  Undefined variable: rfc in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 35
+[19-Jul-2019 00:15:49 America/Mexico_City] PHP Notice:  Undefined variable: giro in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 35
+[19-Jul-2019 00:15:49 America/Mexico_City] PHP Notice:  Undefined variable: banco in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 35
+[19-Jul-2019 00:15:49 America/Mexico_City] PHP Notice:  Undefined variable: cuenta in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 35
+[19-Jul-2019 00:15:49 America/Mexico_City] PHP Notice:  Undefined variable: clabe in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 35
+[19-Jul-2019 00:15:49 America/Mexico_City] PHP Notice:  Undefined variable: contacto in /home/montrust/demosistema.mtcorp.mx/ajax/persona.php on line 35
+[20-Jul-2019 11:43:51 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/empleado.php on line 60
+[20-Jul-2019 11:44:03 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/empleado.php on line 60
+[20-Jul-2019 11:45:50 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/empleado.php on line 60
+[20-Jul-2019 11:46:02 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/empleado.php on line 60
+[20-Jul-2019 11:46:30 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/montrust/demosistema.mtcorp.mx/ajax/empleado.php on line 60

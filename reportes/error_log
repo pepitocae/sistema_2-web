@@ -1,0 +1,4 @@
+[29-Aug-2019 14:07:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$tipo_documento in /home/montrust/demosistema.mtcorp.mx/reportes/rptproveedores.php on line 57
+[29-Aug-2019 14:07:04 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$num_documento in /home/montrust/demosistema.mtcorp.mx/reportes/rptproveedores.php on line 58
+[22-Oct-2019 15:43:10 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$tipo_documento in /home/montrust/demosistema.mtcorp.mx/reportes/rptproveedores.php on line 57
+[22-Oct-2019 15:43:10 America/Mexico_City] PHP Notice:  Undefined property: stdClass::$num_documento in /home/montrust/demosistema.mtcorp.mx/reportes/rptproveedores.php on line 58
